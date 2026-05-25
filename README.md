@@ -43,4 +43,7 @@ LIMIT 10;
 ```
 
 ## Project Outcome
-This project improved my SQL querying, aggregation, filtering and business analysis skills.
+This project improved my SQL querying, aggregation, filtering and business analysis skills
+
+## Dataset
+Retail sales dataset used for SQL business analysis project.
