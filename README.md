@@ -47,4 +47,4 @@ This project improved my SQL querying, aggregation, filtering and business analy
 
 ## Dataset
 Retail sales dataset used for SQL business analysis project.
-[Download Dataset](superstore.csv)
+[Download Dataset](Sample%20-%20Superstore.csv)
